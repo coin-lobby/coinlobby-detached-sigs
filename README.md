@@ -1,1 +1,1 @@
-# coin-lobby-detached-sigs
+# coinlobby-detached-sigs
